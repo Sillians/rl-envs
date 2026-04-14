@@ -21,4 +21,6 @@ dependencies = [
     "tensorboard>=2.16.0",
     "torch>=2.5.1",
     "swig",
+    "moviepy>=2.2.1",
+    "matplotlib>=3.10.8",
 ]
