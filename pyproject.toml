@@ -23,4 +23,5 @@ dependencies = [
     "swig",
     "moviepy>=2.2.1",
     "matplotlib>=3.10.8",
+    "wandb>=0.26.0",
 ]

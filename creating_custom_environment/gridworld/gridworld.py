@@ -40,7 +40,8 @@ class GridWorldEnv(gym.Env):
         Returns:
             dict: Observation with agent and target positions
         """
-        return {"agent": self._agent_location, "target": self._target_location}
+        return {"agent": self._agent_location,
+                "target": self._target_location}
 
     def _get_info(self):
         """Provide additional info about the environment state.

@@ -29,3 +29,24 @@ Creating an RL environment is like designing a video game or simulation. Before 
 - When should an episode end?
 
 
+## Real-World Environment Design Tips
+
+### Start Simple, Add Complexity Gradually
+
+- `First`: Get basic movement and goal-reaching working
+- `Then`: Add obstacles, multiple goals, or time pressure
+- `Finally`: Add complex dynamics, partial observability, or multi-agent interactions
+
+### Design for Learning
+
+- Clear Success Criteria: Agent should know when it’s doing well
+- Reasonable Difficulty: Not too easy (trivial) or too hard (impossible)
+- Consistent Rules: Same action in same state should have same effect
+- Informative Observations: Include everything needed for optimal decisions
+
+### Think About Your Research Question
+
+- Navigation: Focus on spatial reasoning and path planning
+- Control: Emphasize dynamics, stability, and continuous actions
+- Strategy: Include partial information, opponent modeling, or long-term planning
+- Optimization: Design clear trade-offs and resource constraints

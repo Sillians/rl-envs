@@ -1,0 +1,38 @@
+{
+  "os":  "macOS-26.3-arm64-arm-64bit",
+  "python":  "CPython 3.11.14",
+  "startedAt":  "2026-04-20T05:16:05.060947Z",
+  "program":  "/Users/user/Projects/rl-envs/recording_agents/CartPole_training.py",
+  "codePath":  "recording_agents/CartPole_training.py",
+  "codePathLocal":  "CartPole_training.py",
+  "git":  {
+    "remote":  "https://github.com/Sillians/rl-envs.git",
+    "commit":  "fd32dc7dd332e769565a3640a1c6ce54889abc6c"
+  },
+  "email":  "ihuomacbasil@gmail.com",
+  "root":  "/Users/user/Projects/rl-envs/recording_agents",
+  "host":  "MacBook-Pro.local",
+  "executable":  "/Users/user/Projects/rl-envs/.venv/bin/python3",
+  "cpu_count":  10,
+  "cpu_count_logical":  10,
+  "disk":  {
+    "/":  {
+      "total":  "494384795648",
+      "used":  "428417269760"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "apple":  {
+    "name":  "Apple M2 Pro",
+    "ecpuCores":  4,
+    "pcpuCores":  6,
+    "gpuCores":  16,
+    "memoryGb":  16,
+    "swapTotalBytes":  "33285996544",
+    "ramTotalBytes":  "17179869184",
+    "macModel":  "Mac14,9"
+  },
+  "writerId":  "c5d2aaah993vabg85n2saq6n8w1i4ztj"
+}

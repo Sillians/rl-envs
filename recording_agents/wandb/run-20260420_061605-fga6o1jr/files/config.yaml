@@ -1,0 +1,46 @@
+_wandb:
+    value:
+        cli_version: 0.26.0
+        e:
+            c5d2aaah993vabg85n2saq6n8w1i4ztj:
+                apple:
+                    ecpuCores: 4
+                    gpuCores: 16
+                    macModel: Mac14,9
+                    memoryGb: 16
+                    name: Apple M2 Pro
+                    pcpuCores: 6
+                    ramTotalBytes: "17179869184"
+                    swapTotalBytes: "33285996544"
+                codePath: recording_agents/CartPole_training.py
+                codePathLocal: CartPole_training.py
+                cpu_count: 10
+                cpu_count_logical: 10
+                disk:
+                    /:
+                        total: "494384795648"
+                        used: "428417269760"
+                email: ihuomacbasil@gmail.com
+                executable: /Users/user/Projects/rl-envs/.venv/bin/python3
+                git:
+                    commit: fd32dc7dd332e769565a3640a1c6ce54889abc6c
+                    remote: https://github.com/Sillians/rl-envs.git
+                host: MacBook-Pro.local
+                memory:
+                    total: "17179869184"
+                os: macOS-26.3-arm64-arm-64bit
+                program: /Users/user/Projects/rl-envs/recording_agents/CartPole_training.py
+                python: CPython 3.11.14
+                root: /Users/user/Projects/rl-envs/recording_agents
+                startedAt: "2026-04-20T05:16:05.060947Z"
+                writerId: c5d2aaah993vabg85n2saq6n8w1i4ztj
+        m: []
+        python_version: 3.11.14
+        t:
+            "3":
+                - 13
+                - 41
+            "4": 3.11.14
+            "5": 0.26.0
+            "12": 0.26.0
+            "13": darwin-arm64
